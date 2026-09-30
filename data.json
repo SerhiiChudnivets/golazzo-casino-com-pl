@@ -289,13 +289,13 @@
     },
     {
       "link": "/play/",
-      "image": "/uploads/acd94c7d64c4572fa58fc8f828f74bd8.svg",
-      "image_alt": "googlepay"
+      "image": "/uploads/97884414b5bebb9e6c0331960aa5c71c.webp",
+      "image_alt": "mastercard"
     },
     {
       "link": "/play/",
-      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
-      "image_alt": "apple pay"
+      "image": "/uploads/418b10f20c5a107495678db5348856b3.svg",
+      "image_alt": "interac"
     },
     {
       "link": "/play/",
@@ -386,9 +386,9 @@
       "question": "Jakie są minimalne limity wypłaty środków?"
     }
   ],
-  "_generated_at": "2026-09-30T10:14:08.459Z",
+  "_generated_at": "2026-09-30T12:40:18.137Z",
   "_version": "1.0.0",
   "content_alt": "galazzo bonus",
-  "_last_deploy": "2026-09-30T10:14:09.044Z",
-  "_deploy_trigger": "c6152c"
+  "_last_deploy": "2026-09-30T12:40:18.832Z",
+  "_deploy_trigger": "32cs1m"
 }
