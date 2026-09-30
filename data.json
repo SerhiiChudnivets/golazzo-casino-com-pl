@@ -30,7 +30,7 @@
       "isHomepage": false,
       "order": 0,
       "lang": "pl-PL",
-      "faqTitle": "Frequently Asked Questions",
+      "faqTitle": "Często zadawane pytania (FAQ)",
       "popupText": "100% do 8 000 zł + 200 Darmowe Spiny + 80 zł Darmowy zakład",
       "popupLogo": "/uploads/7698682a11b3a4cc33bd0bd975566d5c.webp",
       "sections": null,
@@ -110,7 +110,7 @@
       "seo_title": "Golazzo Casino – Automaty, Jackpoty i Kasyno na Żywo",
       "seo_description": "Graj na automatach, zgarniaj jackpoty i dołącz do ruletki oraz blackjacka na żywo w Golazzo Casino.",
       "html_head": "<link rel=\"canonical\" href=\"https://golazzo-casino.com.pl/pl-pl/\">\n<link rel=\"alternate\" href=\"https://golazzo-casino.com.pl/\" hreflang=\"pl\">\n<link rel=\"alternate\" href=\"https://golazzo-casino.com.pl/pl-pl/\" hreflang=\"pl-PL\">\n<meta property=\"og:locale\" content=\"pl_PL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Golazzo Casino – Automaty, Jackpoty i Kasyno na Żywo\">\n<meta property=\"og:description\" content=\"Graj na automatach, zgarniaj jackpoty i dołącz do ruletki oraz blackjacka na żywo w Golazzo Casino.\">\n<meta property=\"og:url\" content=\"golazzo-casino.com.pl\">\n<meta property=\"og:site_name\" content= \"Golazzo Casino\">",
-      "faq_title": "Frequently Asked Questions",
+      "faq_title": "Często zadawane pytania (FAQ)",
       "hero_badge": "Golazzo Casino - twoje kasyno online w Polsce",
       "cta_text": "ODBIERZ BONUS",
       "content_alt": "galazzo bonus",
@@ -176,7 +176,7 @@
   "features_list": null,
   "footer_text": "© 2026. Golazzo Casino. All rights reserved",
   "popup_text": "100% do 8 000 zł + 200 Darmowe Spiny + 80 zł Darmowy zakład",
-  "faq_title": "Frequently Asked Questions",
+  "faq_title": "Często zadawane pytania (FAQ)",
   "login_text": "Logowanie",
   "register_text": "Rejestracja",
   "slots_title": "Oferta gier i rozrywki",
@@ -386,9 +386,9 @@
       "question": "Jakie są minimalne limity wypłaty środków?"
     }
   ],
-  "_generated_at": "2026-09-30T12:40:18.137Z",
+  "_generated_at": "2026-09-30T12:48:08.520Z",
   "_version": "1.0.0",
   "content_alt": "galazzo bonus",
-  "_last_deploy": "2026-09-30T12:40:18.832Z",
-  "_deploy_trigger": "32cs1m"
+  "_last_deploy": "2026-09-30T12:48:10.240Z",
+  "_deploy_trigger": "zo8zp8"
 }
