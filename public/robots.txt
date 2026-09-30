@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://spinkongcasino.org.uk/sitemap.xml
+Sitemap: https://golazzo-casino.com.pl/sitemap.xml
